@@ -1,0 +1,13 @@
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\bin\Debug\netcoreapp3.1\LineComparisonApp.exe
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\bin\Debug\netcoreapp3.1\LineComparisonApp.deps.json
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\bin\Debug\netcoreapp3.1\LineComparisonApp.runtimeconfig.json
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\bin\Debug\netcoreapp3.1\LineComparisonApp.runtimeconfig.dev.json
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\bin\Debug\netcoreapp3.1\LineComparisonApp.dll
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\bin\Debug\netcoreapp3.1\LineComparisonApp.pdb
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\obj\Debug\netcoreapp3.1\LineComparisonApp.csprojAssemblyReference.cache
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\obj\Debug\netcoreapp3.1\LineComparisonApp.AssemblyInfoInputs.cache
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\obj\Debug\netcoreapp3.1\LineComparisonApp.AssemblyInfo.cs
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\obj\Debug\netcoreapp3.1\LineComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\obj\Debug\netcoreapp3.1\LineComparisonApp.dll
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\obj\Debug\netcoreapp3.1\LineComparisonApp.pdb
+C:\Users\NKS\source\repos\LineComparisonApp\LineComparisonApp\obj\Debug\netcoreapp3.1\LineComparisonApp.genruntimeconfig.cache
